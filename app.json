@@ -1,0 +1,22 @@
+{
+  "name": "main",
+  "displayName": "Superguide",
+  "expo": {
+    "name": "Superguide",
+    "slug": "superguide-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sudobility.superguide"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sudobility.superguide"
+    }
+  }
+}
