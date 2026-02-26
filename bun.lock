@@ -17,9 +17,9 @@
         "@sudobility/design": "^1.1.20",
         "@sudobility/di": "^1.5.42",
         "@sudobility/di_rn": "^0.1.40",
-        "@sudobility/starter_client": "^0.0.10",
-        "@sudobility/starter_lib": "^0.0.8",
-        "@sudobility/starter_types": "^0.0.5",
+        "@sudobility/superguide_client": "^0.0.11",
+        "@sudobility/superguide_lib": "^0.0.9",
+        "@sudobility/superguide_types": "^0.0.7",
         "@sudobility/types": "^1.9.54",
         "@tanstack/react-query": "^5.90.19",
         "expo": "~54.0.32",
@@ -629,11 +629,11 @@
 
     "@sudobility/di_rn": ["@sudobility/di_rn@0.1.40", "", { "peerDependencies": { "@sudobility/components-rn": "^1.0.23", "@sudobility/di": "^1.5.42", "@sudobility/types": "^1.9.54", "react": "^18.0.0 || ^19.0.0", "react-native": ">=0.72.0" } }, "sha512-+VL8+I0k4ZabDiYwAbUDDeiUCTe5qr3IT7f8eXr+mID6neLDMxryf8EIzkGMH7JrM3yPLAnbv23Dyo7YtIl4EQ=="],
 
-    "@sudobility/starter_client": ["@sudobility/starter_client@0.0.10", "", { "peerDependencies": { "@sudobility/types": "^1.9.54", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-boVfSYTzmH/ncmoQb4Spwe4K6Ehwz2FsVTzVHlbXpp4W442uRmjWGWEzfG56xj/GfcdylvUspMT0Lv2oi8ksaQ=="],
+    "@sudobility/superguide_client": ["@sudobility/superguide_client@0.0.11", "", { "peerDependencies": { "@sudobility/types": "^1.9.54", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-J0KVoYEaKyY5fDq6nxwRvzbGM6QunCi9AxC80CBjhz8rs2u8XEymYes/NUjW4AtF+wRRrakHEt3h8pQAK2QLDw=="],
 
-    "@sudobility/starter_lib": ["@sudobility/starter_lib@0.0.8", "", { "peerDependencies": { "@sudobility/types": "^1.9.54", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-xfLeAPnBlH469l8uj6JnscNxauumDmD6OX0ESQeCaOeTTlHY09ryvQflhs+W7g7eov5/isUimrWGb1TmAyYS4w=="],
+    "@sudobility/superguide_lib": ["@sudobility/superguide_lib@0.0.9", "", { "peerDependencies": { "@sudobility/types": "^1.9.54", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0", "zustand": ">=5.0.0" } }, "sha512-Ng1MCHXWeDgxS6G197kuq53klaS38PRDdgxCLq0uRJDwdNIdPcUB/dsHA6crGPo8WoIgLbOrX4uB5YjPSUZc7g=="],
 
-    "@sudobility/starter_types": ["@sudobility/starter_types@0.0.5", "", { "peerDependencies": { "@sudobility/types": "^1.9.54" } }, "sha512-EHiLtXb1lvkWazfpIm375eVbJbSC726H3pRHiL/T3XUnkMy7ASEMONkpTsyFXDjw3YDIasLTR4r03RVT1zOpig=="],
+    "@sudobility/superguide_types": ["@sudobility/superguide_types@0.0.7", "", { "peerDependencies": { "@sudobility/types": "^1.9.54" } }, "sha512-3TTBI4Wtn1pbkGZHoHJzwHh71bKOh6ZQlvodCu/NgJzU69+S2HslziK8UeRUwM9xNGb/QL4s/KLV0NmM2DMcwA=="],
 
     "@sudobility/types": ["@sudobility/types@1.9.54", "", {}, "sha512-A2Kxr639D8NqPbudeARhp1cbKlE6YBf7NKaU8Gh1XwajgV9sqTBMEB+IfFpifU/tKg1JFEj/t5qmPPK4VzdZaw=="],
 
