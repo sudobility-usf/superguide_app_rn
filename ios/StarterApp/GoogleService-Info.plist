@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1008456982478-34s3dd4ndeveq56rt1n774q85pda5v3f.apps.googleusercontent.com</string>
+	<string>1008456982478-0i0b7u1e6206ukatkuuakv07ku4bh5r5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1008456982478-34s3dd4ndeveq56rt1n774q85pda5v3f</string>
+	<string>com.googleusercontent.apps.1008456982478-0i0b7u1e6206ukatkuuakv07ku4bh5r5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1008456982478-gbqgrlicrid6t8ejdis0v80gt48k640q.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyAv7C15cMGPFAfGYhn5MCnJMoUAN3WRWsQ</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.sudobility.starter</string>
+	<string>com.sudobility.superguide</string>
 	<key>PROJECT_ID</key>
 	<string>usfcs-8475a</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1008456982478:ios:464884fd49f433881cd59f</string>
+	<string>1:1008456982478:ios:945ab53ff67047a51cd59f</string>
 </dict>
 </plist>
