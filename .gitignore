@@ -70,3 +70,6 @@ windows/*/packages.lock.json
 *.user
 *.sdf
 *.opensdf
+
+# Claude Code local settings
+.claude/settings.local.json
