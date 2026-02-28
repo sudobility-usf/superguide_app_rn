@@ -5,6 +5,7 @@ module.exports = {
   ],
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/src/$1',
+    '^react-native-config$': '<rootDir>/__mocks__/react-native-config.js',
   },
   setupFiles: [],
   testPathIgnorePatterns: ['/node_modules/'],
